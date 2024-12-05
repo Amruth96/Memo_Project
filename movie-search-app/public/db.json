@@ -1,0 +1,28 @@
+{
+    "Search": [
+      {
+        "Title": "The Matrix",
+        "Year": "1999",
+        "imdbID": "tt0133093",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "Title": "Inception",
+        "Year": "2010",
+        "imdbID": "tt1375666",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+      },
+      {
+        "Title": "Interstellar",
+        "Year": "2014",
+        "imdbID": "tt0816692",
+        "Type": "movie",
+        "Poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10543523_p_v8_as.jpg"
+      }
+    ],
+    "totalResults": "3",
+    "Response": "True"
+  }
+  
